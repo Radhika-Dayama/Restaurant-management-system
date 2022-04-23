@@ -1,0 +1,15 @@
+.btnNum
+{
+width:120px;
+height:50px;
+border-radius:25px;
+border:2px solid red;
+}
+.btnNum
+{
+fontfamily:"montserrat";
+font-size:30px;
+position:relative;
+overflow:hidden;
+background-color:yellow;
+}

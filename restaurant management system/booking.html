@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Hotel Booking Form</title>
+<body bgcolor="yellow">
+<script language="javascript" type="text/javascript">
+function pass()
+{
+alert("Booking Sucess!!")
+}
+</script>
+</head>
+<form action="destination.html" method="GET">
+<legend>Personal details:</legend><br><br>
+<label for="name">Username: </label>
+<input type="text" name="username" id="name" required autofocus placeholder="Your Username" pattern="[a-zA-Z]{3,}" title="Please enter in more than three letters"><br><br>
+<br>
+<label for="email">Email: </label>
+<input type="text" name="email" id="email" required placeholder="Your Email" pattern="[a-zA-Z]{3,}@[a-zA-Z]{3,}[.]{1}[a-zA-Z]{2,}" title="Please enter in a valid email address"><br><br>
+<br>
+<label for="phone">Phone: </label>
+<input type="tel" name="" id="phone" required placeholder="Please enter your phone number" pattern="[0-9]{4} [0-9]{3} [0-9]{3}" title="please enter your phone number at list 10 digit"><br><br>
+<legend>Booking Details: </legend><br><br>
+<label for="date">Booking date: </label>
+<input id="date" type="date" name="date" min="2021-9-21"><br><br>
+<label for="numberOfGuest">Number of guests: </label>
+<input id="number" type="numberOfGuests" name="numberOfGuests" min="1" max="6"><br><br>
+<P>Do you required meals? </P>
+<label for="noMeals">noMeals: </label>
+<input id="noMeals" type="radio" name="nomeals" value="noMeals"><br><br>
+<label for="date">Booking date: </label>
+<input id="date" type="date" name="date" min="2021-9-21"><br><br>
+
+<label for="balcony">Do you required a balcony: </label>
+<input id="balcony" type="checkbox" name="balcony" value="yes" checked><br><br>
+<input id="date" type="date" name="date" min="2021-9-21"><br><br>
+<input type="submit" value="submit"  type="submit" onclick="pass()"><br><br>
+</body>
+</html>

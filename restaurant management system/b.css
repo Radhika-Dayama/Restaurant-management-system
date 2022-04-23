@@ -1,0 +1,276 @@
+#main
+{
+	width:1500;
+	height:1900;
+	
+	
+}
+#head1
+{
+	width:1500;
+	height:450;
+	 
+background-size: 1500px 450px;
+	border-radius: 65px; 
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	 margin-bottom:20px;
+	background-image:url(hotel.png)
+ 
+
+}
+
+#head2
+{
+	width:1500;
+	height:100;
+	
+	  
+}
+#head3
+{
+	width:1500;
+	height:900;
+	
+	
+}
+#head31
+{
+	width:800;
+	height:900;
+
+	float:left
+	
+}
+#head311
+{
+	width:800;
+	height:300;
+	 margin-top: 20px;
+	 margin-right:20px;
+	background-size:800px 300px;
+	background-repeat: no-repeat;
+	border-radius: 65px; 
+    background-image:url(bed.jpg)	
+}
+#head312
+{
+	width:800;
+	height:283;
+	 margin-top: 20px;
+	 margin-bottom:20px;
+	  margin-right:20px;
+	background-size: 800px 283px;
+	background-repeat: no-repeat;
+	border-radius: 65px; 
+background-image:url(pool.jpg)	
+}
+#head313
+{
+	width:800;
+	height:317;
+	background-size: 800px 317px;
+	background-repeat: no-repeat;
+	border-radius: 65px;
+	margin-top: 20px;
+	 margin-bottom:20px;
+	  margin-right:20px;
+	
+	
+	 
+	background-image:url(waiting.png)
+}
+#head32
+{
+	width:700;
+	height:900;
+
+	float:left;
+	
+}
+#head321
+{
+	width:700;
+	height:450;
+background-size: 700px 450px;
+	background-repeat: no-repeat;
+	border-radius: 65px; 
+margin-top: 20px;
+	 margin-bottom:20px;
+	 	  margin-left:20px;
+	
+	
+background-image:url(dish.jpg)
+	
+}
+#head322
+{
+	width:700;
+	height:450;
+	margin-left:20px;
+	background-size: 700px 450px;
+	background-repeat: no-repeat;
+	border-radius: 65px; 
+	background-image:url(hall.png)
+}
+
+
+	
+}
+body
+{
+margin:center;
+padding: 0;
+}
+.container1
+{
+text-align: center;
+margin-top: 10px;
+}
+.btn
+{
+
+background: yellow;
+border: 5px solid red;
+padding: 10px 40px;
+font-size: 20px;
+font-family: "montserrat";
+cursor: pointer;
+margin: 10px;
+transition: 0,10s;
+position: relative;
+overflow: hidden; 
+border-radius: 25px;
+}
+.l
+{
+font-size: 70px;
+font-family: "montserrat";	
+}
+.l1
+{
+font-size: 45px;
+font-weight:bold;
+font-family: "montserrat";	
+
+}
+.l2
+{
+font-size: 30px;
+font-family: "montserrat";	
+}
+.l3
+{
+text-align: center;	
+position: relative;
+	color:"red";
+font-size: 65px;
+font-family: "montserrat";	
+
+margin-top: 50px;
+}
+
+#all
+{
+	width:1500;
+	height:1900;
+}
+#top
+{
+	width:1500;
+	height:350;
+	 
+background-size: 1500px 350px;
+	border-radius: 65px; 
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	 margin-bottom:20px;
+	background-image:url(office1.jpg)
+ 
+
+}
+#button
+{
+	width:1500;
+	height:100;
+	 
+
+	
+}
+
+#middle
+{
+	width:1500;
+	height:1000;
+	 
+
+	
+ 
+
+}
+#middle1
+{
+	width:500;
+	height:1000;
+	 float:left;
+
+}
+#middle2
+{
+	width:1000;
+	height:1000;
+	 float:right;
+background-size: 800px 600px;
+	border-radius: 65px; 
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	 margin-bottom:20px;
+	background-image:url(map.jpg)
+ 
+
+}
+#bottom
+
+#r1
+{
+	width:1500;
+	height:350;
+	 
+background-size: 1500px 350px;
+	border-radius: 65px; 
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	 margin-bottom:20px;
+	background-image:url(reception.png)
+}
+
+#r2
+{
+	width:1500;
+	height:100;
+	 
+
+}
+#r3
+{
+	width:1500;
+	height:300;
+	 
+
+}
+#r4
+{
+	width:1500;
+	height:400;
+	 
+background-size: 700px 300px;
+	border-radius: 65px; 
+		 background-position: center; 
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	 margin-bottom:20px;
+	
+	background-image:url(hand.png)
+
+}
+
